@@ -45,6 +45,8 @@ The following illustrations are worth....
 
 ### Data augmentation (Imgaug)
 
+To avoid an overfitting of our model (case when our data are not sufficient), we use the data augmentation. It consists of adding more versions oof our pictures by (1) changing the color properties like hue, saturation, brightness, etc of the input images, (2) applying transformations such as rotation, scale, and flipping.
+
 ![image](https://user-images.githubusercontent.com/92828445/173933563-5dc321ec-3399-4a09-8267-444035a90d53.png)
 
 
