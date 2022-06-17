@@ -15,7 +15,10 @@ In this work, we will use CNN (Convolutional Neural Networks) to achieve a seman
 The deployment of our model and the built of an application which take an image as input and return its segmentation as output will be done with Microsoft Azure.
 
 
-### Semantic segmentation VS Image classification 
+## Semantic segmentation VS Image classification 
+
+As we did image classification in our previous project, I'll use its concepts to define the semantic segmentation.
+The following illustrations are worth....
 
 ![image](https://user-images.githubusercontent.com/92828445/173925777-74b4e203-1ff2-4efb-a0f6-e45ba6df31b6.png)
 
@@ -33,9 +36,9 @@ The deployment of our model and the built of an application which take an image 
 
 
 
-### Keras for building and training the model (Keras_segmentation)
+## Keras for building and training the model (Keras_segmentation)
 
-### Data
+## Data
 
 #bmp or png format (for the stability of pixels).
 #The size of the input image and the segmentation image should be the same.
@@ -45,7 +48,7 @@ The deployment of our model and the built of an application which take an image 
 ![image](https://user-images.githubusercontent.com/92828445/173933563-5dc321ec-3399-4a09-8267-444035a90d53.png)
 
 
-### The choice of the base model
+## The choice of the base model
 
 
 
